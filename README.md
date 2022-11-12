@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-when using the Prework Study Guide, there are four main sections that can be found on the guide: HTML, CSS, Git, and JavaScript. Each section will contain the notes that the student found relevant on each section. For suggestions on what to study first, open the Chrome DevTools by right clicking and selection "Inspect" or by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first. If more studying is to be done, the webpage can be refreshed to randomly generate a new topic to study.
+When using the Prework Study Guide, there are four main sections that can be found on the guide: HTML, CSS, Git, and JavaScript. Each section will contain the notes that the student found relevant on each section. For suggestions on what to study first, open the Chrome DevTools by right clicking and selection "Inspect" or by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first. If more studying is to be done, the webpage can be refreshed to randomly generate a new topic to study.
 
 ## Credits
 
