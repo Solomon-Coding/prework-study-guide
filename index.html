@@ -4,27 +4,33 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/style.css">
     <title>Prework Study Guide</title>
   </head>
   <body>
     <header id="header">
       <h1>Prework Study Guide</h1>
       <img src="./assets/bowtie-cat.png" alt="Profile image of cat wearing a bow tie." />
+      <h2>✨ Open the Console to See What's Happening ✨</h2>
     </header>
     <main>
+      
       <section class="card" id="html-section">
         <h2>HTML</h2>
         <ul>
-          <li>The head element contains information about the webpage.</li>
-          <li>The body element represents the visible content shown to the user.</li>
+          <li>The head element contains metadata for the webpage. It is not seen on the active webpage.</li>
+          <li>The body element is visible to the user.</li>
+          <li>HTML provides the body of the webpage.</li>
         </ul>    
       </section>
-   
+
       <section class="card" id="css-section">
         <h2>CSS</h2>
         <ul>
-          <li>Enter CSS notes here.</li>
-        </ul> 
+          <li>Margin represents how much space is around the outside of an element.</li>
+          <li>Padding represents how much space is around the content inside an element.</li>
+          <li>CSS provides the style of the webpage.</li>
+        </ul>
       </section>
    
       <section class="card" id="git-section">
@@ -32,13 +38,23 @@
         <ul>
           <li>git status: checks what branch we are currently on</li>
           <li>git checkout -b branch-name: creates a new branch and switches to it</li>
+          <li>git switch branch-name: switches to another branch</li>
+          <ul>
+            <li>git add -A: stages files in the current branch</li>
+            <li>git commit -m “updated project file”: Saves the changes made to the branch</li>
+            <li>git pull origin main: make sure latest version of the "main" branch exists</li>
+            <li>git push origin feature/project: send file to remote repo</li>
+          </ul> 
         </ul> 
       </section>
    
       <section class="card" id="javascript-section">
         <h2>JavaScript</h2>
         <ul>
-          <li>Enter JavaScript notes here</li>
+          <li>A variable is a named container that allows us to store data in our code.</li>
+          <li>Control flow is the order in which a computer executes code in a script.</li>
+          <li>JS provides the functionality of the webpage.</li>
+          
         </ul>
       </section>
     </main>
@@ -46,5 +62,6 @@
     <footer>
       <p>I can code!</p>
     </footer>
+    <script src="./assets/script.js"></script>
   </body>
 </html>
